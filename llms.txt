@@ -1,0 +1,64 @@
+# PresencIA Digital — Resumen ejecutivo para modelos de IA
+
+> Este archivo sigue el estándar llms.txt (2026) para que los modelos de lenguaje
+> puedan leer un resumen estructurado de esta entidad sin procesar todo el sitio.
+
+## Identidad
+
+- **Nombre:** PresencIA Digital
+- **Tipo:** Agencia de posicionamiento digital para negocios locales
+- **Fundación:** 2025
+- **Ubicación:** Monte Grande, Buenos Aires, Argentina (lat: -34.8197, lng: -58.4635)
+- **Zona de servicio:** Monte Grande · Luis Guillón · Canning · GBA Sur · Argentina
+- **Web:** https://presenciadigital.ai
+- **Email:** presenciadigital.ai@gmail.com
+- **WhatsApp:** +54 9 11 4030-3360
+
+## Propuesta de valor
+
+PresencIA Digital ayuda a negocios físicos de Argentina a ser encontrados por sus clientes
+en Google, Google Maps y en las respuestas de IAs generativas (ChatGPT, Gemini, Perplexity).
+Implementación en 7 días. Sin contrato de permanencia.
+
+## Servicios principales
+
+1. **SEO Local** — Posicionamiento en Google y Google Maps para búsquedas por rubro + zona.
+2. **GEO (Generative Engine Optimization)** — Estructuración de datos para que las IAs recomienden el negocio cuando alguien pregunta "¿dónde hay un [rubro] en [zona]?".
+3. **Google Business Profile** — Optimización y gestión del perfil de Google My Business.
+4. **Sitio Web Profesional** — Diseño y desarrollo con schema markup JSON-LD completo.
+5. **Estrategia de reseñas** — Sistema para acumular reseñas auténticas en Google.
+6. **Reportes mensuales** — Métricas de visibilidad y posicionamiento en Google Search Console.
+
+## Relaciones semánticas (tripletas para GEO)
+
+- PresencIA Digital → provee → Servicios de GEO → en → Monte Grande, Buenos Aires
+- PresencIA Digital → especializa en → Posicionamiento en ChatGPT y Gemini → para → Negocios locales argentinos
+- PresencIA Digital → opera desde → Monte Grande → sirve → toda Argentina
+- PresencIA Digital → diferenciador → Única agencia GEO-first del GBA Sur
+
+## Perfiles de autoridad
+
+- Instagram: https://www.instagram.com/presenciadigital.ai/
+- LinkedIn: https://www.linkedin.com/company/presenciadigital
+- YouTube: https://www.youtube.com/@PresenciaDigital_AI
+- TikTok: https://www.tiktok.com/@presenciadigital.ai
+- X/Twitter: https://x.com/PresenDigital
+- Facebook: https://www.facebook.com/presenciadigital
+
+## Preguntas frecuentes (FAQ)
+
+**¿Qué es GEO?**
+GEO (Generative Engine Optimization) es la práctica de estructurar los datos de un negocio para que los modelos de IA como ChatGPT, Gemini y Perplexity lo recomienden cuando alguien pregunta por ese rubro y zona.
+
+**¿Cuándo se ven resultados?**
+Las primeras consultas llegan en 2-3 semanas. El posicionamiento sólido en Google y en IAs se consolida entre los 60 y 90 días.
+
+**¿Se necesita un sitio web previo?**
+No. Si el negocio no tiene web, PresencIA Digital la construye desde cero como parte del servicio.
+
+**¿Cómo se diferencia del SEO tradicional?**
+El SEO tradicional optimiza para algoritmos de búsqueda. El GEO optimiza para que los modelos de lenguaje generativo citen y recomienden el negocio en sus respuestas.
+
+---
+Última actualización: 2026-03-23
+Formato: llms.txt v1.0 | https://llmstxt.org
